@@ -1,0 +1,10 @@
+C:\Users\lcc\source\repos\Physical_Geodesy\bin\Release\Physical_Geodesy.exe.config
+C:\Users\lcc\source\repos\Physical_Geodesy\bin\Release\Physical_Geodesy.exe
+C:\Users\lcc\source\repos\Physical_Geodesy\bin\Release\Physical_Geodesy.pdb
+C:\Users\lcc\source\repos\Physical_Geodesy\obj\Release\Physical_Geodesy.csprojAssemblyReference.cache
+C:\Users\lcc\source\repos\Physical_Geodesy\obj\Release\Physical_Geodesy.Form1.resources
+C:\Users\lcc\source\repos\Physical_Geodesy\obj\Release\Physical_Geodesy.Properties.Resources.resources
+C:\Users\lcc\source\repos\Physical_Geodesy\obj\Release\Physical_Geodesy.csproj.GenerateResource.cache
+C:\Users\lcc\source\repos\Physical_Geodesy\obj\Release\Physical_Geodesy.csproj.CoreCompileInputs.cache
+C:\Users\lcc\source\repos\Physical_Geodesy\obj\Release\Physical_Geodesy.exe
+C:\Users\lcc\source\repos\Physical_Geodesy\obj\Release\Physical_Geodesy.pdb
